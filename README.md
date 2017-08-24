@@ -12,6 +12,8 @@ The foundation of the internet and modern day technology is built on the back of
 
 Large corporations are seeing the value of how open sourcing their software can fuel the services they provide, even in the wake of the explosion of subscription-based profit models.
 
+Imagine a future where developers could easially create and maintain the open source projects as a profitable source of income. There is no telling what kinds of technologies could emerge because of this. This project aims to make it as easy to do this as creating a GitHub account.
+
 ## FOSS Priority Support
 
 FOSS Priority Support is a self-hostable web application designed to facilitate an easy relationship between open source projects and the businesses that depend on them. The goal of this project is to make it profitable for successful open source projects to be actively maintained and developed.
